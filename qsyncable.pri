@@ -1,3 +1,7 @@
+TEMPLATE = lib
+
+QT += core qml
+
 INCLUDEPATH += $$PWD
 
 HEADERS += \
